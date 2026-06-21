@@ -1,17 +1,18 @@
-# card_demo
+# Flutter Card Widget Dashboard Demo
+A tiny demo app describing a card widget in the real world
+This card widget is built with a flexible UI grid dashboard built to showcase how the Flutter `Card` widget organizes, styles, and presents content across real-world application workflows.
 
-A new Flutter project.
+---
+It is presented mostly as an interactive e-commerce gadget dashboard. 
+## How to Run the Project
 
-## Getting Started
+You can follow these terminal steps to launch the workspace locally:
+You can navigate through the code and make some changes for validation.
+1. Clone this repository and open the project directory:
+   ```bash
+   git clone https://github.com/NMordecai/card_demo.git
+   cd card_demo
 
-This project is a starting point for a Flutter application.
+   ## UI Layout Screenshot
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Dashboard Interface Preview](./card_screenshot.png)
